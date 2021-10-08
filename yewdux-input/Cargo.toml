@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2018"
 
 [dependencies]
-yew = {git = "https://github.com/yewstack/yew.git"}
+yew = {git = "https://github.com/Madoshakalaka/yew.git", branch="master"}
 yewdux = {path = "../yewdux", version = "0.6"}
 js-sys = "0.3.50"
 gloo = "0.2.1"
