@@ -6,7 +6,7 @@ Add Yewdux to your project's `Cargo.toml`. Make sure Yew has the "csr" feature (
 
 ```toml
 [dependencies]
-yew = { version = "0.21", features = ["csr"] }
+yew = { version = "0.23", features = ["csr"] }
 yewdux = "0.12"
 ```
 
@@ -14,6 +14,6 @@ yewdux = "0.12"
 
 ```toml
 [dependencies]
-yew = { version = "0.22", features = ["csr"] }
+yew = { version = "0.23", features = ["csr"] }
 yewdux = { git = "https://github.com/intendednull/yewdux.git" }
 ```
